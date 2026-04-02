@@ -1,0 +1,1 @@
+{"name":"Agentes IA","short_name":"AgentesIA","description":"Plataforma de agentes IA con Gemini","start_url":"/","display":"standalone","background_color":"#0f0f0f","theme_color":"#4fc3f7","orientation":"any","icons":[{"src":"/frontend/icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
